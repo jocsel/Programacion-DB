@@ -1,0 +1,5 @@
+E:\Solution1\ClaseSistema\bin\Debug\ClaseSistema.dll
+E:\Solution1\ClaseSistema\bin\Debug\ClaseSistema.pdb
+E:\Solution1\ClaseSistema\obj\Debug\ClaseSistema.csprojResolveAssemblyReference.cache
+E:\Solution1\ClaseSistema\obj\Debug\ClaseSistema.dll
+E:\Solution1\ClaseSistema\obj\Debug\ClaseSistema.pdb

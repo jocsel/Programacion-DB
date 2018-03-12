@@ -1,0 +1,9 @@
+C:\Users\JOCSEL DIAZ\Desktop\Solution1\GUI\bin\Debug\GUI.exe.config
+F:\Solution1\GUI\bin\Debug\GUI.exe.config
+E:\Solution1\GUI\bin\Debug\GUI.exe.config
+E:\Solution1\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Solution1\GUI\obj\Debug\GUI.FP_Usuario.resources
+E:\Solution1\GUI\obj\Debug\GUI.PH_Usuario.resources
+E:\Solution1\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Solution1\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Solution1\GUI\bin\Debug\GUI.exe.config
