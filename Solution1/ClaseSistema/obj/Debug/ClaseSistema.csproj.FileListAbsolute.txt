@@ -3,3 +3,28 @@ E:\Solution1\ClaseSistema\bin\Debug\ClaseSistema.pdb
 E:\Solution1\ClaseSistema\obj\Debug\ClaseSistema.csprojResolveAssemblyReference.cache
 E:\Solution1\ClaseSistema\obj\Debug\ClaseSistema.dll
 E:\Solution1\ClaseSistema\obj\Debug\ClaseSistema.pdb
+D:\Solution1\ClaseSistema\bin\Debug\ClaseSistema.dll
+D:\Solution1\ClaseSistema\bin\Debug\ClaseSistema.pdb
+D:\Solution1\ClaseSistema\obj\Debug\ClaseSistema.csprojResolveAssemblyReference.cache
+D:\Solution1\ClaseSistema\obj\Debug\ClaseSistema.dll
+D:\Solution1\ClaseSistema\obj\Debug\ClaseSistema.pdb
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\ClaseSistema\bin\Debug\ClaseSistema.dll
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\ClaseSistema\bin\Debug\ClaseSistema.pdb
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\ClaseSistema\obj\Debug\ClaseSistema.csprojResolveAssemblyReference.cache
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\ClaseSistema\obj\Debug\ClaseSistema.dll
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\ClaseSistema\obj\Debug\ClaseSistema.pdb
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\ClaseSistema\bin\Debug\ClaseSistema.dll
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\ClaseSistema\bin\Debug\ClaseSistema.pdb
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\ClaseSistema\obj\Debug\ClaseSistema.csprojResolveAssemblyReference.cache
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\ClaseSistema\obj\Debug\ClaseSistema.dll
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\ClaseSistema\obj\Debug\ClaseSistema.pdb
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\ClaseSistema\bin\Debug\ClaseSistema.dll
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\ClaseSistema\bin\Debug\ClaseSistema.pdb
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\ClaseSistema\obj\Debug\ClaseSistema.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\ClaseSistema\obj\Debug\ClaseSistema.dll
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\ClaseSistema\obj\Debug\ClaseSistema.pdb
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\ClaseSistema\bin\Debug\ClaseSistema.dll
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\ClaseSistema\bin\Debug\ClaseSistema.pdb
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\ClaseSistema\obj\Debug\ClaseSistema.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\ClaseSistema\obj\Debug\ClaseSistema.dll
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\ClaseSistema\obj\Debug\ClaseSistema.pdb

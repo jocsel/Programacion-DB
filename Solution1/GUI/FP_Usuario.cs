@@ -22,10 +22,11 @@ namespace GUI
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e) ///ACEPTAR   
         {
-            PH_Usuario new_usuario = new PH_Usuario();
+            FH_Usuario new_usuario = new FH_Usuario();
             new_usuario.Show();
+            this.Hide();
 
         }
 
@@ -43,10 +44,11 @@ namespace GUI
             {
                 dgvUsuario.AutoGenerateColumns = false;
                 dgvUsuario.DataSource = usuarios;
-                dgvUsuario.Columns["idusuario"].DataPropertyName = "id_usuario";
-                dgvUsuario.Columns["usuario"].DataPropertyName = "usuario";
-                dgvUsuario.Columns["contraseña"].DataPropertyName = "contraseña";
-                dgvUsuario.Columns["id_rol"].DataPropertyName = "id_rol";
+               ///NOMBRE DE LA COLUMNA EN EL GRID                    NOMBRE DEL ATRIBUTO EN LA CLS C#
+                dgvUsuario.Columns["Id_usuario"].DataPropertyName = "id_usuario";
+                dgvUsuario.Columns["Usuario"].DataPropertyName = "usuario";
+                dgvUsuario.Columns["Contraseña"].DataPropertyName = "contrasena";
+                dgvUsuario.Columns["Id_rol"].DataPropertyName = "id_rol";
                 dgvUsuario.Columns["nombre"].DataPropertyName = "nombre";
                 dgvUsuario.Columns["apellido"].DataPropertyName = "apellido";
                 dgvUsuario.Columns["rol"].DataPropertyName = "rol";
@@ -63,10 +65,52 @@ namespace GUI
         private void dgvUsuario_CellContentDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
 
-            PH_Usuario new_usuario = new PH_Usuario();
+            FH_Usuario new_usuario = new FH_Usuario();
             new_usuario.user = new ClaseUsuario();
-            new_usuario.user.usuario = dgvUsuario.CurrentRow.Cells["usuario"].Value.ToString();
+            new_usuario.Text = "Modificar";
+            new_usuario.user.usuario = dgvUsuario.CurrentRow.Cells["Usuario"].Value.ToString();
+            new_usuario.user.contrasena = dgvUsuario.CurrentRow.Cells["Contraseña"].Value.ToString();
             new_usuario.user.nombre = dgvUsuario.CurrentRow.Cells["nombre"].Value.ToString();
+            new_usuario.user.apellido = dgvUsuario.CurrentRow.Cells["apellido"].Value.ToString();
+            new_usuario.user.rol = dgvUsuario.CurrentRow.Cells["rol"].Value.ToString();
+            new_usuario.Show();
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void FP_Usuario_Load(object sender, EventArgs e)
+        {
+            dgvUsuario.MultiSelect = false;
+            LlenarGrid();
+        }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void lbllogo_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnmodificar_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FH_Usuario nu = new FH_Usuario();
+            nu.user = new ClaseUsuario();
+            nu.Text = "Modificar";
+            nu.user.usuario = dgvUsuario.CurrentRow.Cells["Usuario"].Value.ToString();
+            nu.user.contrasena = dgvUsuario.CurrentRow.Cells["Contraseña"].Value.ToString();
+            nu.user.nombre = dgvUsuario.CurrentRow.Cells["nombre"].Value.ToString();
+            nu.user.apellido = dgvUsuario.CurrentRow.Cells["apellido"].Value.ToString();
+            nu.user.rol = dgvUsuario.CurrentRow.Cells["rol"].Value.ToString();
+            nu.user.id_usuario = Convert.ToInt32( dgvUsuario.CurrentRow.Cells["Id_usuario"].Value);
+            nu.Show();
         }
     }
 }

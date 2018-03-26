@@ -46,25 +46,43 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FH_Roles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FH_Roles.Designer.cs">
+      <DependentUpon>FH_Roles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FP_Roles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FP_Roles.Designer.cs">
+      <DependentUpon>FP_Roles.cs</DependentUpon>
+    </Compile>
     <Compile Include="FP_Usuario.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FP_Usuario.Designer.cs">
       <DependentUpon>FP_Usuario.cs</DependentUpon>
     </Compile>
-    <Compile Include="PH_Usuario.cs">
+    <Compile Include="FH_Usuario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PH_Usuario.Designer.cs">
-      <DependentUpon>PH_Usuario.cs</DependentUpon>
+    <Compile Include="FH_Usuario.Designer.cs">
+      <DependentUpon>FH_Usuario.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FH_Roles.resx">
+      <DependentUpon>FH_Roles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FP_Roles.resx">
+      <DependentUpon>FP_Roles.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FP_Usuario.resx">
       <DependentUpon>FP_Usuario.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PH_Usuario.resx">
-      <DependentUpon>PH_Usuario.cs</DependentUpon>
+    <EmbeddedResource Include="FH_Usuario.resx">
+      <DependentUpon>FH_Usuario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

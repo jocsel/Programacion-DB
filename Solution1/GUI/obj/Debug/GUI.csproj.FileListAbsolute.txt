@@ -7,3 +7,94 @@ E:\Solution1\GUI\obj\Debug\GUI.PH_Usuario.resources
 E:\Solution1\GUI\obj\Debug\GUI.Properties.Resources.resources
 E:\Solution1\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
 D:\Solution1\GUI\bin\Debug\GUI.exe.config
+D:\Solution1\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Solution1\GUI\obj\Debug\GUI.FP_Usuario.resources
+D:\Solution1\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Solution1\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Solution1\GUI\obj\Debug\GUI.FH_Usuario.resources
+D:\Solution1\GUI\bin\Debug\GUI.exe
+D:\Solution1\GUI\bin\Debug\GUI.pdb
+D:\Solution1\GUI\bin\Debug\AccesoDatos.dll
+D:\Solution1\GUI\bin\Debug\ClaseSistema.dll
+D:\Solution1\GUI\bin\Debug\AccesoDatos.pdb
+D:\Solution1\GUI\bin\Debug\ClaseSistema.pdb
+D:\Solution1\GUI\obj\Debug\GUI.exe
+D:\Solution1\GUI\obj\Debug\GUI.pdb
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\GUI.exe.config
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.exe
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.pdb
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\GUI.exe
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\GUI.pdb
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\AccesoDatos.dll
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\ClaseSistema.dll
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\AccesoDatos.pdb
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\ClaseSistema.pdb
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.FP_Usuario.resources
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.FH_Usuario.resources
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\GUI.exe.config
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.exe
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.pdb
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\GUI.exe
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\GUI.pdb
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\AccesoDatos.dll
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\ClaseSistema.dll
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\AccesoDatos.pdb
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\ClaseSistema.pdb
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.FH_Roles.resources
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.FP_Roles.resources
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.FP_Usuario.resources
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.FH_Usuario.resources
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\GUI.exe.config
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.exe
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.pdb
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\GUI.exe
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\GUI.pdb
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\AccesoDatos.dll
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\ClaseSistema.dll
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\AccesoDatos.pdb
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\bin\Debug\ClaseSistema.pdb
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.FH_Roles.resources
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.FP_Roles.resources
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.FP_Usuario.resources
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.FH_Usuario.resources
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\10mo Cuatrimestres\Programacion con DB\8\Solution1\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\bin\Debug\GUI.exe.config
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\obj\Debug\GUI.exe
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\obj\Debug\GUI.pdb
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\bin\Debug\GUI.exe
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\bin\Debug\GUI.pdb
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\bin\Debug\AccesoDatos.dll
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\bin\Debug\ClaseSistema.dll
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\bin\Debug\AccesoDatos.pdb
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\bin\Debug\ClaseSistema.pdb
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\obj\Debug\GUI.FH_Roles.resources
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\obj\Debug\GUI.FP_Roles.resources
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\obj\Debug\GUI.FP_Usuario.resources
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\obj\Debug\GUI.FH_Usuario.resources
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\10mo Cuatrimestres\Programacion con DB\9\Solution1\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\bin\Debug\GUI.exe.config
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\obj\Debug\GUI.exe
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\obj\Debug\GUI.pdb
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\bin\Debug\GUI.exe
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\bin\Debug\GUI.pdb
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\bin\Debug\AccesoDatos.dll
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\bin\Debug\ClaseSistema.dll
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\bin\Debug\AccesoDatos.pdb
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\bin\Debug\ClaseSistema.pdb
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\obj\Debug\GUI.FH_Roles.resources
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\obj\Debug\GUI.FP_Roles.resources
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\obj\Debug\GUI.FP_Usuario.resources
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\obj\Debug\GUI.FH_Usuario.resources
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\10mo Cuatrimestres\Nueva carpeta\Programacion-DB\Solution1\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache

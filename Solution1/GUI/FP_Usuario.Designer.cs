@@ -32,9 +32,10 @@
             this.lbllogo = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.btnmodificar = new System.Windows.Forms.Button();
-            this.btncancelar = new System.Windows.Forms.Button();
+            this.Funciones = new System.Windows.Forms.GroupBox();
             this.btnnuevo = new System.Windows.Forms.Button();
+            this.btncancelar = new System.Windows.Forms.Button();
+            this.btnmodificar = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
             this.dgvUsuario = new System.Windows.Forms.DataGridView();
             this.Id_usuario = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -46,70 +47,67 @@
             this.rol = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Logo.SuspendLayout();
             this.panel2.SuspendLayout();
+            this.Funciones.SuspendLayout();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvUsuario)).BeginInit();
             this.SuspendLayout();
             // 
             // Logo
             // 
+            this.Logo.BackColor = System.Drawing.Color.MediumSpringGreen;
             this.Logo.Controls.Add(this.lbllogo);
             this.Logo.Dock = System.Windows.Forms.DockStyle.Top;
             this.Logo.Location = new System.Drawing.Point(0, 0);
             this.Logo.Name = "Logo";
-            this.Logo.Size = new System.Drawing.Size(603, 25);
+            this.Logo.Size = new System.Drawing.Size(549, 25);
             this.Logo.TabIndex = 0;
             // 
             // lbllogo
             // 
             this.lbllogo.AutoSize = true;
-            this.lbllogo.Location = new System.Drawing.Point(280, 6);
+            this.lbllogo.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbllogo.ForeColor = System.Drawing.Color.White;
+            this.lbllogo.Location = new System.Drawing.Point(237, 2);
             this.lbllogo.Name = "lbllogo";
-            this.lbllogo.Size = new System.Drawing.Size(43, 13);
+            this.lbllogo.Size = new System.Drawing.Size(75, 18);
             this.lbllogo.TabIndex = 0;
             this.lbllogo.Text = "Usuario";
+            this.lbllogo.Click += new System.EventHandler(this.lbllogo_Click);
             // 
             // panel1
             // 
             this.panel1.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel1.Location = new System.Drawing.Point(0, 297);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(603, 19);
+            this.panel1.Size = new System.Drawing.Size(549, 19);
             this.panel1.TabIndex = 1;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // panel2
             // 
-            this.panel2.Controls.Add(this.btnmodificar);
-            this.panel2.Controls.Add(this.btncancelar);
-            this.panel2.Controls.Add(this.btnnuevo);
+            this.panel2.Controls.Add(this.Funciones);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(0, 25);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(603, 48);
+            this.panel2.Size = new System.Drawing.Size(549, 81);
             this.panel2.TabIndex = 2;
             this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             // 
-            // btnmodificar
+            // Funciones
             // 
-            this.btnmodificar.Location = new System.Drawing.Point(259, 9);
-            this.btnmodificar.Name = "btnmodificar";
-            this.btnmodificar.Size = new System.Drawing.Size(93, 36);
-            this.btnmodificar.TabIndex = 4;
-            this.btnmodificar.Text = "Modificar";
-            this.btnmodificar.UseVisualStyleBackColor = true;
-            // 
-            // btncancelar
-            // 
-            this.btncancelar.Location = new System.Drawing.Point(358, 6);
-            this.btncancelar.Name = "btncancelar";
-            this.btncancelar.Size = new System.Drawing.Size(90, 39);
-            this.btncancelar.TabIndex = 3;
-            this.btncancelar.Text = "Cancelar";
-            this.btncancelar.UseVisualStyleBackColor = true;
-            this.btncancelar.Click += new System.EventHandler(this.btncancelar_Click);
+            this.Funciones.Controls.Add(this.btnnuevo);
+            this.Funciones.Controls.Add(this.btncancelar);
+            this.Funciones.Controls.Add(this.btnmodificar);
+            this.Funciones.Location = new System.Drawing.Point(12, 14);
+            this.Funciones.Name = "Funciones";
+            this.Funciones.Size = new System.Drawing.Size(518, 61);
+            this.Funciones.TabIndex = 5;
+            this.Funciones.TabStop = false;
+            this.Funciones.Text = "Funciones";
             // 
             // btnnuevo
             // 
-            this.btnnuevo.Location = new System.Drawing.Point(163, 9);
+            this.btnnuevo.Location = new System.Drawing.Point(115, 15);
             this.btnnuevo.Name = "btnnuevo";
             this.btnnuevo.Size = new System.Drawing.Size(90, 36);
             this.btnnuevo.TabIndex = 0;
@@ -117,14 +115,35 @@
             this.btnnuevo.UseVisualStyleBackColor = true;
             this.btnnuevo.Click += new System.EventHandler(this.button1_Click);
             // 
+            // btncancelar
+            // 
+            this.btncancelar.Location = new System.Drawing.Point(310, 15);
+            this.btncancelar.Name = "btncancelar";
+            this.btncancelar.Size = new System.Drawing.Size(90, 36);
+            this.btncancelar.TabIndex = 3;
+            this.btncancelar.Text = "Cancelar";
+            this.btncancelar.UseVisualStyleBackColor = true;
+            this.btncancelar.Click += new System.EventHandler(this.btncancelar_Click);
+            // 
+            // btnmodificar
+            // 
+            this.btnmodificar.Location = new System.Drawing.Point(211, 15);
+            this.btnmodificar.Name = "btnmodificar";
+            this.btnmodificar.Size = new System.Drawing.Size(93, 36);
+            this.btnmodificar.TabIndex = 4;
+            this.btnmodificar.Text = "Modificar";
+            this.btnmodificar.UseVisualStyleBackColor = true;
+            this.btnmodificar.Click += new System.EventHandler(this.btnmodificar_Click);
+            // 
             // panel3
             // 
             this.panel3.Controls.Add(this.dgvUsuario);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel3.Location = new System.Drawing.Point(0, 73);
+            this.panel3.Location = new System.Drawing.Point(0, 106);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(603, 224);
+            this.panel3.Size = new System.Drawing.Size(549, 191);
             this.panel3.TabIndex = 3;
+            this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
             // 
             // dgvUsuario
             // 
@@ -143,7 +162,8 @@
             this.dgvUsuario.Location = new System.Drawing.Point(0, 0);
             this.dgvUsuario.Name = "dgvUsuario";
             this.dgvUsuario.ReadOnly = true;
-            this.dgvUsuario.Size = new System.Drawing.Size(603, 224);
+            this.dgvUsuario.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgvUsuario.Size = new System.Drawing.Size(549, 191);
             this.dgvUsuario.TabIndex = 0;
             this.dgvUsuario.CellContentDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvUsuario_CellContentDoubleClick);
             // 
@@ -195,17 +215,20 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(603, 316);
+            this.ClientSize = new System.Drawing.Size(549, 316);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.Logo);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FP_Usuario";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FP_Usuario";
+            this.Load += new System.EventHandler(this.FP_Usuario_Load);
             this.Logo.ResumeLayout(false);
             this.Logo.PerformLayout();
             this.panel2.ResumeLayout(false);
+            this.Funciones.ResumeLayout(false);
             this.panel3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgvUsuario)).EndInit();
             this.ResumeLayout(false);
@@ -230,5 +253,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn nombre;
         private System.Windows.Forms.DataGridViewTextBoxColumn apellido;
         private System.Windows.Forms.DataGridViewTextBoxColumn rol;
+        private System.Windows.Forms.GroupBox Funciones;
     }
 }

@@ -18,7 +18,7 @@ namespace AccesoDatos
         {
 
             string mensaje = "";
-            cmd = new SqlCommand("Sistema..sp_rol", conex);
+            cmd = new SqlCommand("Sistema..Sp_rol", conex);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.Add("@Id_rol", SqlDbType.Int).Value = rol.id_rol;
@@ -47,7 +47,7 @@ namespace AccesoDatos
         {
 
             string mensaje = "";
-            cmd = new SqlCommand("Sistema..sp_rol", conex);
+            cmd = new SqlCommand("Sistema..Sp_rol", conex);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.Add("@Id_rol", SqlDbType.Int).Value = rol.id_rol;
@@ -76,7 +76,7 @@ namespace AccesoDatos
         {
             List<ClaseRoles> Listarol = new List<ClaseRoles>();
 
-            cmd = new SqlCommand("Sistema..sp_usuario", conex);
+            cmd = new SqlCommand("Sistema..Sp_rol", conex);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.Add("@i_operacion", SqlDbType.VarChar, 1).Value = "S";

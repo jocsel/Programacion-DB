@@ -41,11 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClaseRoles.cs" />
-    <Compile Include="ERolesTran.cs" />
-    <Compile Include="ESecuencial.cs" />
-    <Compile Include="ClaseTabla.cs" />
-    <Compile Include="ETransacciones.cs" />
     <Compile Include="ClaseUsuario.cs" />
+    <Compile Include="funciones.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

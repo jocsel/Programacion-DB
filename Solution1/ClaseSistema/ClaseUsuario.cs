@@ -14,7 +14,6 @@ namespace ClaseSistema
         public int id_rol { get; set; }
         public string nombre { get; set; }
         public string apellido { get; set; }
-
         public string rol { get; set; }
     }
 }
